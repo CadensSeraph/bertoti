@@ -1,4 +1,4 @@
-# Comentários sobre o texto
+# Comentários sobre o livro "Software Engineering at Google, Oreilly"
 
 ## Primeiro Trecho
 
