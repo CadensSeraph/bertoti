@@ -1,4 +1,4 @@
-#Primeira Atividade da Disciplina de Engenharia de Software
+# Primeira Atividade da Disciplina de Engenharia de Software
 
 ## Comentários sobre o livro "Software Engineering at Google, Oreilly"
 
@@ -76,4 +76,5 @@ Em dispositivos eletrônicos, como smartphones ou laptops, existe um tradeoff en
 
 ### Conclusão
 Os tradeoffs são parte integrante de muitas decisões e é importante avaliá-los cuidadosamente com base nas necessidades e prioridades de cada situação.
+
 
